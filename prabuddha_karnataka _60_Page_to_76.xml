@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE pk SYSTEM "pk.dtd">
 <prabuddha_karnataka>
-    <author authorname="ಅಣ್ಣೇಗಡ ಎಚ್. ಎಚ್">
-        <entry>
+	<author authorname="ಅಣ್ಣೇಗಡ ಎಚ್. ಎಚ್">
+		<entry>
 			<title>ಕಣಿವೆಯ ನೆಳಲಲ್ಲಿ</title>
 			<feature>ನಾಟಕ</feature>
 			<volume>053</volume>
@@ -23,7 +23,7 @@
 			<issue>01</issue>
 			<page>0035</page>
 		</entry>
-    </author>
+	</author>
 	<author authorname="ಅನಂತಕೃಷ್ಣ ಹೆಬ್ಬಾರ್">
 		<entry>
 			<title>ನುಡಿನತ್ತುಗಳು</title>
@@ -623,7 +623,7 @@
 			<page>0154</page>
 		</entry>
 	</author>
-    <author authorname="ಗಂಗಾಧರನ್ ಎಸ್">
+	<author authorname="ಗಂಗಾಧರನ್ ಎಸ್">
 		<entry>
 			<title>ಬಸವಣ್ಣನವರ ಪವಾಡಗಳಲ್ಲಿ ವಿಜ್ಞಾನದರ್ಶನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -631,8 +631,8 @@
 			<issue>03</issue>
 			<page>0151</page>
 		</entry>
-    </author>
-    <author authorname="ಗಂಗಾಧರಾಚಾರ್ ಎಚ್. ಎಲ್">
+	</author>
+	<author authorname="ಗಂಗಾಧರಾಚಾರ್ ಎಚ್. ಎಲ್">
 		<entry>
 			<title>‌ಉಡುಗೊರೆ</title>
 			<feature>ಕವನ</feature>
@@ -640,22 +640,22 @@
 			<issue>02</issue>
 			<page>0133</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗೂಳಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0104</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ನಿರೀಕ್ಷೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0014</page>
 		</entry>
-    </author>
-    <author authorname="ಗಜಾನನ ಈಶ್ವರ ಹೆಗ್ಗಡೆ">
+	</author>
+	<author authorname="ಗಜಾನನ ಈಶ್ವರ ಹೆಗ್ಗಡೆ">
 		<entry>
 			<title>ಇವನಾರು</title>
 			<feature>ಕವನ</feature>
@@ -663,29 +663,29 @@
 			<issue>04</issue>
 			<page>0021</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ತ್ಯಾಗಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0060</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾಸ್ತಿಕ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0038</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮಲೆಯಲ್ಲಿ ಮದುಮಗಳು ಕಾದಂಬರಿಯಲ್ಲಿ ಕೆಲವು ಪ್ರತೀಕಗಳು ಮತ್ತು ಪ್ರತಿಮೆಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0127</page>
 		</entry>
-    </author>
-    <author authorname="ಗದಗಕರ ಎನ್. ಎಸ್">
+	</author>
+	<author authorname="ಗದಗಕರ ಎನ್. ಎಸ್">
 		<entry>
 			<title>ಅರುಣಕಿರಣ ದೀಧಿತಿ</title>
 			<feature>ಕವನ</feature>
@@ -693,22 +693,22 @@
 			<issue>02</issue>
 			<page>0062</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಂಗಾಲಹರಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>04</issue>
 			<page>0123</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವಿದಾಯಕ ವಿಮರ್ಶೆಯ ನೆಲೆ ಬೆಲೆ</title>
 			<feature>ಸಂ ಸಂ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0092</page>
 		</entry>
-    </author>
-    <author authorname="ಗಾಯಿ. ಜಿ. ಎಸ್">
+	</author>
+	<author authorname="ಗಾಯಿ. ಜಿ. ಎಸ್">
 		<entry>
 			<title>ಪಂಪನ ತಮ್ಮ ಜಿನವಲ್ಲಭನ ಶಿಲಾಶಾಸನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -716,8 +716,8 @@
 			<issue>04</issue>
 			<page>0072</page>
 		</entry>
-    </author>
-    <author authorname="ಗಿರಿರಾಜು ಎಂ. ಎಂ">
+	</author>
+	<author authorname="ಗಿರಿರಾಜು ಎಂ. ಎಂ">
 		<entry>
 			<title>ಬಸವಣ್ಣ ಮತ್ತು ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -725,15 +725,15 @@
 			<issue>04</issue>
 			<page>0169</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹಂಸ ನೀರಕ್ಷೀರ ವಿವೇಕ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0069</page>
 		</entry>
-    </author>
-    <author authorname="ಗುಂಜಾಳ ಎಸ್. ಆರ್">
+	</author>
+	<author authorname="ಗುಂಜಾಳ ಎಸ್. ಆರ್">
 		<entry>
 			<title>‌ಉತ್ತಂಗ ಸಾಹಿತಿ ಉತ್ತಂಗಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -741,8 +741,8 @@
 			<issue>02</issue>
 			<page>0003</page>
 		</entry>
-    </author>
-    <author authorname="ಗುಂಡಾ ಜೋಯಿಸ್ ಕೆಳದಿ">
+	</author>
+	<author authorname="ಗುಂಡಾ ಜೋಯಿಸ್ ಕೆಳದಿ">
 		<entry>
 			<title>ಪಾರ್ವತೀವಲ್ಲಭ ಶತಕ</title>
 			<feature>ಸಂ ಸಂ</feature>
@@ -750,8 +750,8 @@
 			<issue>03</issue>
 			<page>0111</page>
 		</entry>
-    </author>
-    <author authorname="ಗುರುರಾಜ ಭಟ್ ವಿ">
+	</author>
+	<author authorname="ಗುರುರಾಜ ಭಟ್ ವಿ">
 		<entry>
 			<title>ದಕ್ಷಿಣ ಕನ್ನಡದ ಸೇರೆಗಾರರು</title>
 			<feature>ಸಂಕೀರ್ಣ</feature>
@@ -759,8 +759,8 @@
 			<issue>02</issue>
 			<page>0075</page>
 		</entry>
-    </author>
-    <author authorname="ಗೋಪಾಲ್ ಬಾ. ರಾ">
+	</author>
+	<author authorname="ಗೋಪಾಲ್ ಬಾ. ರಾ">
 		<entry>
 			<title>ಕಟವಪು - ಕೞ್ಗಪ್ಪು - ವೆಳ್ಗೊಳ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -768,8 +768,8 @@
 			<issue>02</issue>
 			<page>0125</page>
 		</entry>
-    </author>
-    <author authorname="ಗೋಪಾಲಕೃಷ್ಣ ಭಟ್ಟ ತೆಕ್ಕುಂಜೆ">
+	</author>
+	<author authorname="ಗೋಪಾಲಕೃಷ್ಣ ಭಟ್ಟ ತೆಕ್ಕುಂಜೆ">
 		<entry>
 			<title>ಪಂಪಭಾರತದ ಒಂದು ಪದ್ಯದ ಪಾಠ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -777,8 +777,8 @@
 			<issue>04</issue>
 			<page>0130</page>
 		</entry>
-    </author>
-    <author authorname="ಗೋಪಾಲಕೃಷ್ಣ ಹೆಗ್ಗಡೆ">
+	</author>
+	<author authorname="ಗೋಪಾಲಕೃಷ್ಣ ಹೆಗ್ಗಡೆ">
 		<entry>
 			<title>ಆಷಾಢದ ಹಾಡು</title>
 			<feature>ಕವನ</feature>
@@ -786,8 +786,8 @@
 			<issue>01</issue>
 			<page>0088</page>
 		</entry>
-    </author>
-    <author authorname="ಚನ್ನಬಸಪ್ಪ ಕೋ">
+	</author>
+	<author authorname="ಚನ್ನಬಸಪ್ಪ ಕೋ">
 		<entry>
 			<title>ಗಾಂಧೀಜಿಗೆ ಸಲ್ಲಬೇಕಾದ ನಿಜವಾದ ಸ್ಥಾನ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -795,8 +795,8 @@
 			<issue>00</issue>
 			<page>0000</page>
 		</entry>
-    </author>
-    <author authorname="ಚಂದ್ರಶೇಖರ ಎಚ್">
+	</author>
+	<author authorname="ಚಂದ್ರಶೇಖರ ಎಚ್">
 		<entry>
 			<title>ಜನಪ್ರಿಯ ಕ್ರಾಂತಿಕಾರಿ ಹಾಗೂ ಕವಿ ಮಕದ್ದೂಮ್</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -804,29 +804,29 @@
 			<issue>03</issue>
 			<page>0099</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಮ್ಮ ನಗರ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0062</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಬಾಂಗ್ಲಾಕವನಪಂಚಕ</title>
 			<feature>ಕವನ</feature>
 			<volume>053</volume>
 			<issue>03</issue>
 			<page>0123</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಾವಿನ ಕಂದರ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0092</page>
 		</entry>
-    </author>
-    <author authorname="ಚಂದ್ರಶೇಖರ ಪ. ವಿ">
+	</author>
+	<author authorname="ಚಂದ್ರಶೇಖರ ಪ. ವಿ">
 		<entry>
 			<title>ಲಾಜರಸ್</title>
 			<feature>ಕತೆ. ಪ್ರ</feature>
@@ -834,8 +834,8 @@
 			<issue>02</issue>
 			<page>0005</page>
 		</entry>
-    </author>
-    <author authorname="ಚಂದ್ರಶೇಖರ ಐತಾಳ ಗುಂಡ್ಮಿ">
+	</author>
+	<author authorname="ಚಂದ್ರಶೇಖರ ಐತಾಳ ಗುಂಡ್ಮಿ">
 		<entry>
 			<title>ಕನ್ನಡ ತ್ರಿಪದಿಕಾವ್ಯಗಳ ಪರಂಪರೆ-ಪ್ರಗತಿ-ಪ್ರಚಾರ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -843,50 +843,50 @@
 			<issue>02</issue>
 			<page>0095</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗುಂಡುಸೂಜಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0034</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ತಿಂಗಳು ಮುಡಿದವನ ತಿರುಳು</title>
 			<feature>ಕವನ</feature>
 			<volume>053</volume>
 			<issue>03</issue>
 			<page>0068</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ದಾಸಕೂಟ ಎಂಬ ಮಾತು ಎಷ್ಟು ಪ್ರಾಚೀನ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0167</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ದಾಸಸಾಹಿತ್ಯದ ನುಡಿನಡೆಯ ವಿನ್ಯಾಸ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0155</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪಂಗನಾಮ ಎಂದರೇನು?</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>052</volume>
 			<issue>04</issue>
 			<page>0117</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>’ಸತಿಯಪುತ್ರ’ ಎಂದರೇನು? ಅದೇ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0137</page>
 		</entry>
-    </author>
-    <author authorname="ಚಂದ್ರಾಬಾಯಿ ಬಿ. ವಿ">
+	</author>
+	<author authorname="ಚಂದ್ರಾಬಾಯಿ ಬಿ. ವಿ">
 		<entry>
 			<title>ಕಬೀರರ ಕೆಲವು ಪದಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -894,15 +894,15 @@
 			<issue>03</issue>
 			<page>0047</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಂತ ತುಕಾರಾಮ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0057</page>
 		</entry>
-    </author>
-    <author authorname="ಚಿದಾನಂದಮೂರ್ತಿ ಎಂ">
+	</author>
+	<author authorname="ಚಿದಾನಂದಮೂರ್ತಿ ಎಂ">
 		<entry>
 			<title>’ಅಬ್ಬೆಯೆಂದತ್ತಿಗೆಯೆಂಬ ಮಾತನ್’</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -910,64 +910,64 @@
 			<issue>03</issue>
 			<page>0127</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>’ಒಸಿ’ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>052</volume>
 			<issue>03</issue>
 			<page>0144</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗೋಗೇಶ್ವರ-ಗೊಗ್ಗೇಶ್ವರ(ಅಲ್ಲಮ ಅಂಕಿತ)</title>
 			<feature>ಸಂ ಸಂ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0105</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾಗವಾಸ ಎಂದರೇನು? ಲ್ಲಮನ ಮನೆತನದ ಬಗ್ಗೆ ಒಂದು ಸ್ಪಷ್ಟೀಕರಣ</title>
 			<feature>ಸಂ; ಸಂ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0089</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪಗರಣ-ಹಗರಣ-ಇತಿಹಾಸದಲ್ಲಿ-ಸಮಾಕಾಲೀನರಲ್ಲಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>055</volume>
 			<issue>04</issue>
 			<page>0047</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನರಸಿಂಹಾಚಾರ್ ಡಿ. ಎಲ್. (ಪ್ರೊ)</title>
 			<feature>ಜೀಸ್ಮೃತಿ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0137</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪ್ರಾಚೀನ ಕರ್ಣಾಟಕದಲ್ಲಿ ಗಮಕ ಮತ್ತು ಗಮಕಿಗಳು</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0003</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಬೆಳ್ಳಿಗಾವಿಯಲ್ಲಿ ಅಲ್ಲಮನ ಸ್ಮಾರಕಗಳಿಗಾಗಿ ಶೋಧ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0094</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಯೂಪಸ್ತಂಭಗಳು</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>000</volume>
 			<issue>00</issue>
 			<page>0000</page>
 		</entry>
-    </author>
-    <author authorname="ಚಿಲೆ">
+	</author>
+	<author authorname="ಚಿಲೆ">
 		<entry>
 			<title>ಅಲ್ಲಮ</title>
 			<feature>ಕವನ</feature>
@@ -975,8 +975,8 @@
 			<issue>02</issue>
 			<page>0036</page>
 		</entry>
-    </author>
-    <author authorname="ಚೆನ್ನಣ್ಣವಾಲಿಕಾರ">
+	</author>
+	<author authorname="ಚೆನ್ನಣ್ಣವಾಲಿಕಾರ">
 		<entry>
 			<title>ಭೂತ</title>
 			<feature>ಕವನ</feature>
@@ -984,15 +984,15 @@
 			<issue>00</issue>
 			<page>0000</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಯಾರ‍್ಹಾರ ನನಗೆ ನಿನ ಹೊರತು</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>04</issue>
 			<page>0030</page>
 		</entry>
-    </author>
-    <author authorname="ಜಗದೀಶ ಎ. ಮಾ">
+	</author>
+	<author authorname="ಜಗದೀಶ ಎ. ಮಾ">
 		<entry>
 			<title>ಅವ್ವ</title>
 			<feature>ಕವನ</feature>
@@ -1000,8 +1000,8 @@
 			<issue>02</issue>
 			<page>0109</page>
 		</entry>
-    </author>
-    <author authorname="ಜಂಬುನಾಥನ್ ಎಂ. ವಿ">
+	</author>
+	<author authorname="ಜಂಬುನಾಥನ್ ಎಂ. ವಿ">
 		<entry>
 			<title>ಕಲಿಂಗತ್ತು-ತ್-ಪ್ಪರಣಿ ಅಥವಾ ಕಲಿಂಗಯುದ್ಧ </title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -1009,15 +1009,15 @@
 			<issue>02</issue>
 			<page>0097</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಶಿಲಪ್ಪಧಿಕಾರಂ </title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0047</page>
 		</entry>
-    </author>
-    <author authorname="ಜಯತೀರ್ಥ ರಾಜಪುರೋಹಿತ">
+	</author>
+	<author authorname="ಜಯತೀರ್ಥ ರಾಜಪುರೋಹಿತ">
 		<entry>
 			<title>ಆಡಳಿತ ಭಾಷೆ(ವಿಚಾರ)</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1025,22 +1025,22 @@
 			<issue>03</issue>
 			<page>0073</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕಾವ್ಯವಿಮರ್ಶೆಯಲ್ಲಿ ಪೂರ್ವ ಪಶ್ಚಿಮ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0099</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಜಯವೆಂಕಟಾಚಾರ್ಯ ಕವಿ</title>
 			<feature>ಸಂ.ಸಂ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0077</page>
 		</entry>
-    </author>
-    <author authorname="ಜಯಪ್ರಕಾಶ ಎಂ. ಎನ್">
+	</author>
+	<author authorname="ಜಯಪ್ರಕಾಶ ಎಂ. ಎನ್">
 		<entry>
 			<title>‌ಅಧಿಕಾರ</title>
 			<feature>ಕವನ</feature>
@@ -1048,8 +1048,8 @@
 			<issue>03</issue>
 			<page>0106</page>
 		</entry>
-    </author>
-    <author authorname="ಜವಳಿ ಬಿ. ಸಿ">
+	</author>
+	<author authorname="ಜವಳಿ ಬಿ. ಸಿ">
 		<entry>
 			<title>ವಿಮರ್ಶಕ ಕುವೆಂಪು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1057,15 +1057,15 @@
 			<issue>02</issue>
 			<page>0063</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹರಿಹರ ಕವಿ ಚಿತ್ರಿಸಿದ ಸ್ತ್ರೀಯರು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>01</issue>
 			<page>0085</page>
 		</entry>
-    </author>
-    <author authorname="ಜಾನಕೀತನಯ">
+	</author>
+	<author authorname="ಜಾನಕೀತನಯ">
 		<entry>
 			<title>ಬಲಿ ವಾಮನ</title>
 			<feature>ಕವನ</feature>
@@ -1073,15 +1073,15 @@
 			<issue>03</issue>
 			<page>0081</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮಾರ್ಕಂಡೇಯ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0029</page>
 		</entry>
-    </author>
-    <author authorname="ಜಿ. ವಿ. ಡಿ.">
+	</author>
+	<author authorname="ಜಿ. ವಿ. ಡಿ.">
 		<entry>
 			<title>ವಿಜಯ</title>
 			<feature>ಕವನ</feature>
@@ -1089,8 +1089,8 @@
 			<issue>03</issue>
 			<page>0028</page>
 		</entry>
-    </author>
-    <author authorname="ಜೈಪ್ರಕಾಶ್ ತೀರ್ಥಹಳ್ಳಿ">
+	</author>
+	<author authorname="ಜೈಪ್ರಕಾಶ್ ತೀರ್ಥಹಳ್ಳಿ">
 		<entry>
 			<title>ಪ್ರಶ್ನೆ</title>
 			<feature>ಕವನ</feature>
@@ -1098,15 +1098,15 @@
 			<issue>04</issue>
 			<page>0048</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಶೂನ್ಯ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0094</page>
 		</entry>
-    </author>
-    <author authorname="ಜೈಪ್ರಕಾಶ್ ಎಂ. ಎನ್">
+	</author>
+	<author authorname="ಜೈಪ್ರಕಾಶ್ ಎಂ. ಎನ್">
 		<entry>
 			<title>ನಿನ್ನ ನೆನಪು</title>
 			<feature>ಕವನ</feature>
@@ -1114,8 +1114,8 @@
 			<issue>04</issue>
 			<page>0107</page>
 		</entry>
-    </author>
-    <author authorname="ತಾರಾನಾಥ ಬಾಡಲ್">
+	</author>
+	<author authorname="ತಾರಾನಾಥ ಬಾಡಲ್">
 		<entry>
 			<title>ಹನುಮಂತ ಕೊರವಂಜಿ</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1123,8 +1123,8 @@
 			<issue>01</issue>
 			<page>0047</page>
 		</entry>
-    </author>
-    <author authorname="ತಿಮ್ಮಪ್ಪ ಬಿ. ಕೆ">
+	</author>
+	<author authorname="ತಿಮ್ಮಪ್ಪ ಬಿ. ಕೆ">
 		<entry>
 			<title>ಊರ ಕಾಗೆಗಳು</title>
 			<feature>ಕವನ</feature>
@@ -1132,29 +1132,29 @@
 			<issue>01</issue>
 			<page>0034</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕುರುತ್ತಿಪ್ಪಾಟ್</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0053</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಚೋರ್ ಮತ್ತು ವಯರ್‌ಗಳ ಹಿಂದೆ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0045</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸೀತಾದುಃಖಂ(ಮಲೆಯಾಳ ಕಿೞಿಪಾಟ್ಟು)</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0057</page>
 		</entry>
-    </author>
-    <author authorname="ತಿಪ್ಪೇಸ್ವಾಮಿ ಪಿ. ಆರ್">
+	</author>
+	<author authorname="ತಿಪ್ಪೇಸ್ವಾಮಿ ಪಿ. ಆರ್">
 		<entry>
 			<title>ಬಸವಣ್ಣ ನಿನ್ನಾಟ ಮಲ್ಲಿಗೆ ಹೂವಿನ ತೋಟ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -1162,8 +1162,8 @@
 			<issue>05</issue>
 			<page>0057</page>
 		</entry>
-    </author>
-    <author authorname="‌ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎನ್">
+	</author>
+	<author authorname="‌ದಕ್ಷಿಣಾಮೂರ್ತಿ ಎನ್. ಎನ್">
 		<entry>
 			<title>ತೆಲುಗಿನಲ್ಲಿ ರಾಮಾಯಣಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1171,8 +1171,8 @@
 			<issue>04</issue>
 			<page>0077</page>
 		</entry>
-    </author>
-    <author authorname="ದಿನಕರ ದಿಂಡಾವರ">
+	</author>
+	<author authorname="ದಿನಕರ ದಿಂಡಾವರ">
 		<entry>
 			<title>ಗೋಡೆ</title>
 			<feature>ಕವನ</feature>
@@ -1180,8 +1180,8 @@
 			<issue>01</issue>
 			<page>0034</page>
 		</entry>
-    </author>
-    <author authorname="ದಿವಾಕರ್ ಆರ್. ಕೆ">
+	</author>
+	<author authorname="ದಿವಾಕರ್ ಆರ್. ಕೆ">
 		<entry>
 			<title>ಕೆರೆಯ ನೀರು ಕೆರೆಗೆ ಚೆಲ್ಲಿ</title>
 			<feature>ಕವನ</feature>
@@ -1189,22 +1189,22 @@
 			<issue>03</issue>
 			<page>0136</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕೋಟೆಯಿಲ್ಲದ ಗೋಡೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0088</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸೀರೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0146</page>
 		</entry>
-    </author>
-    <author authorname="ದೇವಾಜಿ ಆರ್">
+	</author>
+	<author authorname="ದೇವಾಜಿ ಆರ್">
 		<entry>
 			<title>ಪ್ರಲಾಪ</title>
 			<feature>ಕವನ</feature>
@@ -1212,8 +1212,8 @@
 			<issue>03</issue>
 			<page>0037</page>
 		</entry>
-    </author>
-    <author authorname="ದೇವೀರಪ್ಪ ಎಚ್‌">
+	</author>
+	<author authorname="ದೇವೀರಪ್ಪ ಎಚ್‌">
 		<entry>
 			<title>ಕಪ್ಪಡಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1221,15 +1221,15 @@
 			<issue>01</issue>
 			<page>0147</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕೞ್ವಪ್ಪು</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0163</page>
 		</entry>
-    </author>
-    <author authorname="ದೊಡ್ಡ ರಂಗೇಗೌಡ">
+	</author>
+	<author authorname="ದೊಡ್ಡ ರಂಗೇಗೌಡ">
 		<entry>
 			<title>ಕಣಿವೆ</title>
 			<feature>ಕವನ</feature>
@@ -1237,15 +1237,15 @@
 			<issue>01</issue>
 			<page>0109</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವ್ಯತ್ಯಾಸ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0132</page>
 		</entry>
-    </author> 
-    <author authorname="ದೊರೆಸ್ವಾಮಿ ಎಚ್. ಆರ್">
+	</author> 
+	<author authorname="ದೊರೆಸ್ವಾಮಿ ಎಚ್. ಆರ್">
 		<entry>
 			<title>ಬಡಿತ</title>
 			<feature>ಕವನ</feature>
@@ -1253,8 +1253,8 @@
 			<issue>04</issue>
 			<page>0108</page>
 		</entry>
-    </author>
-    <author authorname="ದೊರೆಸ್ವಾಮಿ ಹೊರೆಯಾಲ">
+	</author>
+	<author authorname="ದೊರೆಸ್ವಾಮಿ ಹೊರೆಯಾಲ">
 		<entry>
 			<title>ಉಳಿಕೆ</title>
 			<feature>ಕವನ</feature>
@@ -1262,8 +1262,8 @@
 			<issue>04</issue>
 			<page>0104</page>
 		</entry>
-    </author>
-    <author authorname="ನಂಜುಂಡಾರಾಧ್ಯ ಎಂ. ಜಿ ">
+	</author>
+	<author authorname="ನಂಜುಂಡಾರಾಧ್ಯ ಎಂ. ಜಿ ">
 		<entry>
 			<title>ತೋಂಟದ ಸಿದ್ಧಲಿಂಗ ಶಿವಯೋಗಿಗಳ ವಚನಗಳಲ್ಲಿ ಕಾವ್ಯಸತ್ವ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1271,15 +1271,15 @@
 			<issue>04</issue>
 			<page>0104</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾಟ್ಯಾಚಾರ್ಯ ನಂದಿಕೇಶ್ವರ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0099</page>
 		</entry>
-    </author>
-    <author authorname="ನರಸಿಂಹನ್ ಎಂ. ಆರ್ ">
+	</author>
+	<author authorname="ನರಸಿಂಹನ್ ಎಂ. ಆರ್ ">
 		<entry>
 			<title>ಸ್ಯಾಂಸನ್ ಅಗೊನಿಸ್ಟಸ್ (ಮಿಲ್ಟನ್)</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1287,22 +1287,22 @@
 			<issue>01</issue>
 			<page>0039</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸ್ಯಾಂಸನ್ ಅಗೊನಿಸ್ಟಸ್ (ಮಿಲ್ಟನ್)</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0037</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸ್ಯಾಂಸನ್ ಅಗೊನಿಸ್ಟಸ್ (ಮಿಲ್ಟನ್)</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>03</issue>
 			<page>0021</page>
 		</entry>
-    </author>
-    <author authorname="ನರಸಿಂಹಮೂರ್ತಿ ಎ. ವಿ  ">
+	</author>
+	<author authorname="ನರಸಿಂಹಮೂರ್ತಿ ಎ. ವಿ  ">
 		<entry>
 			<title>ಕದಂಬರ ಬನವಾಸಿ ಶಾಸನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1310,22 +1310,22 @@
 			<issue>01</issue>
 			<page>0025</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗುಪ್ತವೊಳಲಿನ ಗುತ್ತರು</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0112</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಚಾಳುಕ್ಯ ಗೊಗ್ಗಿರಾಜ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0095</page>
 		</entry>
-    </author>
-    <author authorname="ನರಸಿಂಹಾಚಾರ್ ಪು. ತಿ (ಪು.ತಿ.ನ) ">
+	</author>
+	<author authorname="ನರಸಿಂಹಾಚಾರ್ ಪು. ತಿ (ಪು.ತಿ.ನ) ">
 		<entry>
 			<title>ನಾ ನನ್ನ ದೇವರೆತ</title>
 			<feature>ಕವನ</feature>
@@ -1333,36 +1333,36 @@
 			<issue>02</issue>
 			<page>0001</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಭಾರತಭೂಮಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0001</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಿಹಿ-ಕಹಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0105</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಶ್ರೀಕಂಠಯ್ಯ ತೀ. ನಂ. ಅವರನ್ನು ಕುರಿತು</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>01</issue>
 			<page>0050</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಾಂಸ್ಕೃತಿಕ ಸ್ವಾಯತ್ತತೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0004</page>                                                                                                   
 		</entry>
-    </author>
-    <author authorname="ನಾಗಭೂಷಣ">
+	</author>
+	<author authorname="ನಾಗಭೂಷಣ">
 		<entry>
 			<title>ನನಗೂ ಆಸೆ ಇದೆ</title>
 			<feature>ಕವನ</feature>
@@ -1370,8 +1370,8 @@
 			<issue>02</issue>
 			<page>0113</page>
 		</entry>
-    </author>
-    <author authorname="ನಾಗರಾಜ್ ಎನ್. ಎಚ್">
+	</author>
+	<author authorname="ನಾಗರಾಜ್ ಎನ್. ಎಚ್">
 		<entry>
 			<title>‌ಅರಿಸಮಾಸ</title>
 			<feature>ಕವನ</feature>
@@ -1379,22 +1379,22 @@
 			<issue>01</issue>
 			<page>0030</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ದ್ವಂದ್ವ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0010</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ನಿರೀಕ್ಷೆಯ ಕೋಶ-ಅನು</title>
 			<feature>ಕಥೆ</feature>
 			<volume>052</volume>
 			<issue>03</issue>
 			<page>0075</page>
 		</entry>
-    </author>
-    <author authorname="ನಾಗರಾಜ್ ಎಸ್">
+	</author>
+	<author authorname="ನಾಗರಾಜ್ ಎಸ್">
 		<entry>
 			<title>‌ಆಗ್ನೇಯ ಏಷ್ಯಾದೊಡನೆ ಕರ್ಣಾಟಕದ ಸಾಂಸ್ಕೃತಿಕ ಸಂಬಂಧ</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1402,15 +1402,15 @@
 			<issue>03</issue>
 			<page>0139</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹಲ್ಮಿಡ ಶಾಸನದ ಸೞ್ವಿಙ್ಗದರ್</title>
 			<feature>ಸಂ.ಸಂ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0089</page>
 		</entry>
-    </author>
-    <author authorname="ನಾಗೇಗೌಡ ಎಚ್. ಎಲ್">
+	</author>
+	<author authorname="ನಾಗೇಗೌಡ ಎಚ್. ಎಲ್">
 		<entry>
 			<title>ವಿಮಾನದಲ್ಲಿ</title>
 			<feature>ಕವನ</feature>
@@ -1418,8 +1418,8 @@
 			<issue>01</issue>
 			<page>0111</page>
 		</entry>
-    </author>
-    <author authorname="ನಾಗೇಂದ್ರ">
+	</author>
+	<author authorname="ನಾಗೇಂದ್ರ">
 		<entry>
 			<title>ಖಾಲಿ</title>
 			<feature>ಕವನ</feature>
@@ -1427,8 +1427,8 @@
 			<issue>04</issue>
 			<page>0010</page>
 		</entry>
-    </author>
-    <author authorname="ನಾರಾಯಣ ಕೆ">
+	</author>
+	<author authorname="ನಾರಾಯಣ ಕೆ">
 		<entry>
 			<title>ಸಂಕೇತಿ ಭಾಷೆಯ ವರ್ಣಸಮಾಮ್ನಾಯ</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1436,8 +1436,8 @@
 			<issue>02</issue>
 			<page>0069</page>
 		</entry>
-    </author>
-    <author authorname="ನಾರಾಯಣಮೂರ್ತಿ ಜೆ. ವಿ">
+	</author>
+	<author authorname="ನಾರಾಯಣಮೂರ್ತಿ ಜೆ. ವಿ">
 		<entry>
 			<title>ಹಿಂದೂಧರ್ಮ-ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -1445,8 +1445,8 @@
 			<issue>04</issue>
 			<page>0061</page>
 		</entry>
-    </author>
-    <author authorname="ನಾರಾಯಣ ರಾವ್ ವಿ. ಎಸ್">
+	</author>
+	<author authorname="ನಾರಾಯಣ ರಾವ್ ವಿ. ಎಸ್">
 		<entry>
 			<title>ಗಾಂಧಿಯವರ ವೈವಧ್ಯಮಯ ಪ್ರಾಯೋಗಿಕ ಜೀವನ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -1454,8 +1454,8 @@
 			<issue>04</issue>
 			<page>0131</page>
 		</entry>
-    </author>
-    <author authorname="ನಾವಡೆ ಎ. ವಿ">
+	</author>
+	<author authorname="ನಾವಡೆ ಎ. ವಿ">
 		<entry>
 			<title>ಪಂಗನಾಮ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1463,8 +1463,8 @@
 			<issue>03</issue>
 			<page>0165</page>
 		</entry>
-    </author>
-    <author authorname="ನಿಸರ್ಗಪ್ರಿಯ">
+	</author>
+	<author authorname="ನಿಸರ್ಗಪ್ರಿಯ">
 		<entry>
 			<title>ನಿಸರ್ಗ</title>
 			<feature>ಕವನ</feature>
@@ -1472,8 +1472,8 @@
 			<issue>02</issue>
 			<page>0121</page>
 		</entry>
-    </author>
-    <author authorname="ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಕೆ. ಎಸ್">
+	</author>
+	<author authorname="ನಿಸಾರ್ ಅಹಮ್ಮದ್ ಕೆ. ಎಸ್">
 		<entry>
 			<title>ಪಂಜೆಯವರ ಕವಿತೆಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1481,15 +1481,15 @@
 			<issue>03</issue>
 			<page>0019</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಬಾಪೂ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0013</page>
 		</entry>
-    </author>
-    <author authorname="ನೆಂಪು">
+	</author>
+	<author authorname="ನೆಂಪು">
 		<entry>
 			<title>ಕರುಣಿಸೆನಗೆ</title>
 			<feature>ಕವನ</feature>
@@ -1497,8 +1497,8 @@
 			<issue>03</issue>
 			<page>0093</page>
 		</entry>
-    </author>
-    <author authorname="ನೇತ್ರಾವತೀತನಯ">
+	</author>
+	<author authorname="ನೇತ್ರಾವತೀತನಯ">
 		<entry>
 			<title>ಮುದಿಮರ</title>
 			<feature>ಕವನ</feature>
@@ -1506,8 +1506,8 @@
 			<issue>04</issue>
 			<page>0079</page>
 		</entry>
-    </author>
-    <author authorname="ಪ್ರಭುಪ್ರಸಾದ ಕೆ. ಬಿ">
+	</author>
+	<author authorname="ಪ್ರಭುಪ್ರಸಾದ ಕೆ. ಬಿ">
 		<entry>
 			<title>ಇನ್ನೂ ಇದೆ ಗೆಲುವ ರಾಜ್ಯ</title>
 			<feature>ಕವನ</feature>
@@ -1515,22 +1515,22 @@
 			<issue>01</issue>
 			<page>0043</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಿರ್ಭಯ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0019</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>’ಗೀತಾಂಜಲಿ’ ಒಂದು ಸಮೀಕ್ಷೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>04</issue>
 			<page>0097</page>
 		</entry>
-    </author>
-    <author authorname="ಪುರುಷೋತ್ತಮ ಸಿ. ಜೆ">
+	</author>
+	<author authorname="ಪುರುಷೋತ್ತಮ ಸಿ. ಜೆ">
 		<entry>
 			<title>ಶ್ರೀ ರಾಮಾಯಣದರ್ಶನಂ (ಸಂಸ್ಕೃತಾನುವಾದ)</title>
 			<feature>ಕವನ</feature>
@@ -1538,8 +1538,8 @@
 			<issue>01</issue>
 			<page>0001</page>
 		</entry>
-    </author>
-    <author authorname="ಪ್ರೇಮಾಭಟ್">
+	</author>
+	<author authorname="ಪ್ರೇಮಾಭಟ್">
 		<entry>
 			<title>ಮನೆ</title>
 			<feature>ಕವನ</feature>
@@ -1547,8 +1547,8 @@
 			<issue>02</issue>
 			<page>0136</page>
 		</entry>
-    </author>
-    <author authorname="ಬಸವರಾಜ ಕುಂಚೂರ">
+	</author>
+	<author authorname="ಬಸವರಾಜ ಕುಂಚೂರ">
 		<entry>
 			<title>ಸತಿಯಪುತ್ರ-ಆಶಯಾಂತರಗಳು</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1556,8 +1556,8 @@
 			<issue>03</issue>
 			<page>0135</page>
 		</entry>
-    </author>
-    <author authorname="ಬಸವರಾಜು ಎಲ್">
+	</author>
+	<author authorname="ಬಸವರಾಜು ಎಲ್">
 		<entry>
 			<title>ಸರ್ವಜ್ಞನಿಗೆ ಒಬ್ಬನೇ ಒಬ್ಬ ಲೇಖಕ ಶಿಷ್ಯ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -1565,8 +1565,8 @@
 			<issue>03</issue>
 			<page>0107</page>
 		</entry>
-    </author>
-    <author authorname="ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ">
+	</author>
+	<author authorname="ಬಾಲಸುಬ್ರಹ್ಮಣ್ಯ">
 		<entry>
 			<title>ಮಸೆತ</title>
 			<feature>ಕವನ</feature>
@@ -1574,8 +1574,8 @@
 			<issue>04</issue>
 			<page>0107</page>
 		</entry>
-    </author>
-    <author authorname="ಬಿಳಿಗಿರಿ ಹಚ್. ಎಸ್">
+	</author>
+	<author authorname="ಬಿಳಿಗಿರಿ ಹಚ್. ಎಸ್">
 		<entry>
 			<title>ವೊಡ್ಡಾರಾಧನೆಯಲ್ಲಿ ಆಡುಮಾತಿನ ಶೈಲಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1583,8 +1583,8 @@
 			<issue>02</issue>
 			<page>0155</page>
 		</entry>
-    </author>
-    <author authorname="ಭಗವಾನ್">
+	</author>
+	<author authorname="ಭಗವಾನ್">
 		<entry>
 			<title>ಸೈಲಾಸ್ ಮಾರ್ನರ್</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1592,8 +1592,8 @@
 			<issue>04</issue>
 			<page>0064</page>
 		</entry>
-    </author>
-    <author authorname="ಭರತ್ ಎ">
+	</author>
+	<author authorname="ಭರತ್ ಎ">
 		<entry>
 			<title>ಉಮರ್‌ಕಯ್ಯಮಿನ ರುಬಾಯಿತದಲ್ಲಿ ವಿಧಾತನ ಸ್ಥಾನ ಒಂದು ವಿವೇಚನೆ</title>
 			<feature></feature>
@@ -1601,8 +1601,8 @@
 			<issue>01</issue>
 			<page>0071</page>
 		</entry>
-    </author>
-    <author authorname="ಭಾರತಿ ಎಚ್. ಎಲ್. ಎನ್">
+	</author>
+	<author authorname="ಭಾರತಿ ಎಚ್. ಎಲ್. ಎನ್">
 		<entry>
 			<title>ದೂತವಾಕ್ಯ (ಭಾಸಕವಿ)</title>
 			<feature>ನಾಟಕ</feature>
@@ -1610,8 +1610,8 @@
 			<issue>04</issue>
 			<page>0007</page>
 		</entry>
-    </author>
-    <author authorname="ಭೀಮರಾವ್ ಚಿಟಗುಪ್ಪಿ">
+	</author>
+	<author authorname="ಭೀಮರಾವ್ ಚಿಟಗುಪ್ಪಿ">
 		<entry>
 			<title>ತೊರೆವೆ ರಾಮಾಯಣದ ಸ್ವರೂಪ ವೈಶಿಷ್ಟ್ಯ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1619,15 +1619,15 @@
 			<issue>09</issue>
 			<page>0105</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪ್ರಾಚೀನ ಕಾವ್ಯಗಳಲ್ಲಿ ಪದ್ಯಗಳ ಪುನರಾವೃತ್ತಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0031</page>
 		</entry>
-    </author>
-    <author authorname="ಭೈರವಮೂರ್ತಿ ಕೆ">
+	</author>
+	<author authorname="ಭೈರವಮೂರ್ತಿ ಕೆ">
 		<entry>
 			<title>ಕಟ್ಟೀಮನಿ ಐವತ್ತು</title>
 			<feature>ಜೀವನಚರಿತ್ರೆ</feature>
@@ -1635,50 +1635,50 @@
 			<issue>00</issue>
 			<page>0000</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕನ್ನಡ ಅಧ್ಯಯನ ಸಂಸ್ಥೆಯ ಕಟ್ಟಡದ ಉದ್ಘಾಟನೆ</title>
 			<feature>ವಸ್ತು</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0181</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕನ್ನಡ ವಿಶ್ವಕೋಶದ ಪ್ರಥಮ ಸಂಪುಟದ ಬಿಡುಗಡೆ</title>
 			<feature>ವಸ್ತು</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0223</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕಿಟ್ಟಲರ ಕನ್ನಡ ಇಂಗ್ಲಿಷ್ ನಿಘಂಟುವಿನ ಪರಿಷ್ಕೃತ ಮತ್ತು ವಿಸ್ತೃತ ಮುದ್ರಣದ ಬಿಡುಗಡೆ</title>
 			<feature>ವಸ್ತು</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0181</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಾಂಧೀಸೂಕ್ತಿಗಳು</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0186</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕದ ಚಿನ್ನದ ಹಬ್ಬ</title>
 			<feature>ವಸ್ತು</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0162</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಭಾರತೀಯ ಭಾಷೆಯ ಕೇಂದ್ರ ಸಂಸ್ಥೆಯ ಉದ್ಘಾಟನೆ</title>
 			<feature>ವಸ್ತು</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0187</page>
 		</entry>
-    </author>
-    <author authorname="ಭೋಜರಾಜ ಪಾಟೀಲ">
+	</author>
+	<author authorname="ಭೋಜರಾಜ ಪಾಟೀಲ">
 		<entry>
 			<title>ಪ್ರಭುದೇವರ ಎರಡು ಅಪ್ರಕಟಿತ ಹಾಡುಗಳು</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1686,15 +1686,15 @@
 			<issue>01</issue>
 			<page>0077</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಂಜೇಶ್ವರ ಪಾರಿಜಾತ</title>
 			<feature>ಸಂ.ಸಂ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0102</page>
 		</entry>
-    </author>
-    <author authorname="ಮಂಜುನಾಥ ಬಿ. ಜಿ">
+	</author>
+	<author authorname="ಮಂಜುನಾಥ ಬಿ. ಜಿ">
 		<entry>
 			<title>ತ್ರಿಕದಂಬಪುರ ತೆರಕಣಾಂಬಿ, ಕಂಚಿ ಅಲ್ಲ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1702,8 +1702,8 @@
 			<issue>01</issue>
 			<page>0137</page>
 		</entry>
-    </author>
-    <author authorname="ಮಧುಸೂದನ ಕೆ ಎಸ್">
+	</author>
+	<author authorname="ಮಧುಸೂದನ ಕೆ ಎಸ್">
 		<entry>
 			<title>ಕದೀಮರು</title>
 			<feature>ಕವನ</feature>
@@ -1711,8 +1711,8 @@
 			<issue>03</issue>
 			<page>0100</page>
 		</entry>
-    </author>
-    <author authorname="ಮಲ್ಲಪ್ಪ ಟಿ. ಎನ್">
+	</author>
+	<author authorname="ಮಲ್ಲಪ್ಪ ಟಿ. ಎನ್">
 		<entry>
 			<title>ವೀರಶೈವಕ್ಕೆ ಶೈವ ಪಾಶುಪತ ಮಹೇಶ್ವರರ ಕೊಡುಗೆ</title>
 			<feature>ಸಂ.ಸಂ</feature>
@@ -1720,8 +1720,8 @@
 			<issue>04</issue>
 			<page>0015</page>
 		</entry>
-    </author>
-    <author authorname="ಮಹದೇವಯ್ಯ ಟಿ. ಎನ್">
+	</author>
+	<author authorname="ಮಹದೇವಯ್ಯ ಟಿ. ಎನ್">
 		<entry>
 			<title>ಅಕ್ಕನ ವಚನಗಳು ಮತ್ತು ತಿರುಪ್ಪಾವೈ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1729,8 +1729,8 @@
 			<issue>02</issue>
 			<page>0061</page>
 		</entry>
-    </author>
-    <author authorname="ಮಾಧವ ಪೈ. ಎಂ">
+	</author>
+	<author authorname="ಮಾಧವ ಪೈ. ಎಂ">
 		<entry>
 			<title>ನಕ್ಕರವದ್ದಿ-ನೆಕ್ಕೊರವಟ್ಟಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1738,8 +1738,8 @@
 			<issue>02</issue>
 			<page>0131</page>
 		</entry>
-    </author>
-    <author authorname="ಮುರುಳೀಧರ ಉಪಾಧ್ಯ ಹಿರಿಯಡಕ">
+	</author>
+	<author authorname="ಮುರುಳೀಧರ ಉಪಾಧ್ಯ ಹಿರಿಯಡಕ">
 		<entry>
 			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ವ್ಯಕ್ತಿ ಚಿತ್ರಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1747,8 +1747,8 @@
 			<issue>02</issue>
 			<page>0021</page>
 		</entry>
-    </author>
-    <author authorname="ಮೈಲಾರಗೌಡ ಪಾಟೀಲ">
+	</author>
+	<author authorname="ಮೈಲಾರಗೌಡ ಪಾಟೀಲ">
 		<entry>
 			<title>ಕೆಲವು ಸುಭಾಷಿತಗಳು</title>
 			<feature></feature>
@@ -1756,8 +1756,8 @@
 			<issue>02</issue>
 			<page>0109</page>
 		</entry>
-    </author>
-    <author authorname="ಯಮುನಾಚಾರ್ಯ ಎಂ">
+	</author>
+	<author authorname="ಯಮುನಾಚಾರ್ಯ ಎಂ">
 		<entry>
 			<title>ಸಾಹಿತ್ಯ ಸಂಗೀತ ಮತ್ತು ಕಲೆಗಳನ್ನು ಕುರಿತ ಗಾಂಧೀಜಿ ಅವರ ದೃಷ್ಟಿ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -1765,8 +1765,8 @@
 			<issue>04</issue>
 			<page>0033</page>
 		</entry>
-    </author>
-    <author authorname="ರಂಗಸ್ವಾಮಿಯ್ಯ ಜಿ. ಆರ್">
+	</author>
+	<author authorname="ರಂಗಸ್ವಾಮಿಯ್ಯ ಜಿ. ಆರ್">
 		<entry>
 			<title>ನಳಂದ ವಿದ್ಯಾಪೀಠ</title>
 			<feature></feature>
@@ -1774,8 +1774,8 @@
 			<issue>02</issue>
 			<page>0125</page>
 		</entry>
-    </author>
-    <author authorname="ರಘುರಾಮರಾವ್ ವೈ">
+	</author>
+	<author authorname="ರಘುರಾಮರಾವ್ ವೈ">
 		<entry>
 			<title>ಮೃತ್ಯು</title>
 			<feature>ಕವನ</feature>
@@ -1783,8 +1783,8 @@
 			<issue>01</issue>
 			<page>0008</page>
 		</entry>
-    </author>
-    <author authorname="ರಾ ಗೌ">
+	</author>
+	<author authorname="ರಾ ಗೌ">
 		<entry>
 			<title>ಛಲ</title>
 			<feature>ಕವನ</feature>
@@ -1792,15 +1792,15 @@
 			<issue>01</issue>
 			<page>0088</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹೆಣ್ಣು</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0105</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಘವೇಂದ್ರಾಚಾರ್ಯ ಕುಷ್ಟಗಿ">
+	</author>
+	<author authorname="ರಾಘವೇಂದ್ರಾಚಾರ್ಯ ಕುಷ್ಟಗಿ">
 		<entry>
 			<title>ನಲ್ಲನೊಡನೆ</title>
 			<feature>ಕವನ</feature>
@@ -1808,8 +1808,8 @@
 			<issue>01</issue>
 			<page>0100</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಚಪ್ಪ ಆರ್">
+	</author>
+	<author authorname="ರಾಚಪ್ಪ ಆರ್">
 		<entry>
 			<title>‌ಇಟ್ಟಿಗೆಯ ಸುಟ್ಟವನು</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1817,15 +1817,15 @@
 			<issue>03</issue>
 			<page>0147</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಬೂತ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0191</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಜಗೋಪಾಲ ಕ. ವೆಂ">
+	</author>
+	<author authorname="ರಾಜಗೋಪಾಲ ಕ. ವೆಂ">
 		<entry>
 			<title>ಕ್ಷಾರ ಪಾನೀಯಂ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -1833,15 +1833,15 @@
 			<issue>02</issue>
 			<page>0160</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮಾಳಖೇಡ-ಸ್ಥಲನಾಮ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>01</issue>
 			<page>0079</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಜಣ್ಣ ಬಿ">
+	</author>
+	<author authorname="ರಾಜಣ್ಣ ಬಿ">
 		<entry>
 			<title>ಸೊಂಟ-ಬಂಟ</title>
 			<feature>ಕವನ</feature>
@@ -1849,15 +1849,15 @@
 			<issue>04</issue>
 			<page>0109</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವ್ಯಾಧಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>053</volume>
 			<issue>04</issue>
 			<page>0084</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಜಣ್ಣ ರಾಮಪುರ">
+	</author>
+	<author authorname="ರಾಜಣ್ಣ ರಾಮಪುರ">
 		<entry>
 			<title>ಬಯಕೆ</title>
 			<feature>ಕವನ</feature>
@@ -1865,15 +1865,15 @@
 			<issue>01</issue>
 			<page>0076</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹಳ್ಳಿಯಲ್ಲಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0122</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಜಶೇಖರ ವಿ. ಕೆ">
+	</author>
+	<author authorname="ರಾಜಶೇಖರ ವಿ. ಕೆ">
 		<entry>
 			<title>ಸತಿ ಕಸ್ತೂರಿ</title>
 			<feature>ಕವನ</feature>
@@ -1881,8 +1881,8 @@
 			<issue>04</issue>
 			<page>0029</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಜೇಗೌಡ ಹ. ಕ">
+	</author>
+	<author authorname="ರಾಜೇಗೌಡ ಹ. ಕ">
 		<entry>
 			<title>ಖೋಟಾನಾಣ್ಯ</title>
 			<feature>ಕಥೆ</feature>
@@ -1890,22 +1890,22 @@
 			<issue>04</issue>
 			<page>0109</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಟಾಂಗಾವಾಲ</title>
 			<feature>ಕಥೆ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0139</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಾಂಧೀಜಿ ಶಿಕ್ಷಣ ಮಾಧ್ಯಮ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0179</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಕೃಷ್ಣ ಎಂ">
+	</author>
+	<author authorname="ರಾಮಕೃಷ್ಣ ಎಂ">
 		<entry>
 			<title>ಕನ್ನಡದಲ್ಲಿ ಶತಕಸಾಹಿತ್ಯ</title>
 			<feature>ಕಾವ್ಯಾ</feature>
@@ -1913,22 +1913,22 @@
 			<issue>03</issue>
 			<page>0101</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕಾವ್ಯಧರ್ಮಮುಂ ಧರ್ಮಮಂ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0029</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಚುಟುಕಗಳು</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0146</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಚಂದ್ರ">
+	</author>
+	<author authorname="ರಾಮಚಂದ್ರ">
 		<entry>
 			<title>ನಕ್ಷತ್ರ</title>
 			<feature>ಕವನ</feature>
@@ -1936,15 +1936,15 @@
 			<issue>04</issue>
 			<page>0084</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನರರೇ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0138</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಚಂದ್ರರಾವ್ ಡಿ. ಬಿ">
+	</author>
+	<author authorname="ರಾಮಚಂದ್ರರಾವ್ ಡಿ. ಬಿ">
 		<entry>
 			<title>ವಚನಗಳು</title>
 			<feature>ಕವನ</feature>
@@ -1952,15 +1952,15 @@
 			<issue>03</issue>
 			<page>0036</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವಾಕ್ಯ-ಪದ-ಪದಾಂಗ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>04</issue>
 			<page>0011</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಎಸ್. ಎಂ">
+	</author>
+	<author authorname="ರಾಮಚಂದ್ರಸ್ವಾಮಿ ಎಸ್. ಎಂ">
 		<entry>
 			<title>ರವೀಂದ್ರನಾಥರ ರಾಷ್ಟ್ರಭಕ್ತಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -1968,8 +1968,8 @@
 			<issue>02</issue>
 			<page>0031</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಚಂದ್ರಾಚಾರ್ ಡಿ. ಬಿ">
+	</author>
+	<author authorname="ರಾಮಚಂದ್ರಾಚಾರ್ ಡಿ. ಬಿ">
 		<entry>
 			<title>ನೆನೆಯಲಾರೆ</title>
 			<feature>ಕವನ</feature>
@@ -1977,8 +1977,8 @@
 			<issue>04</issue>
 			<page>0027</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಣ್ಣ ಕ್ಯಾತನಹಳ್ಳಿ">
+	</author>
+	<author authorname="ರಾಮಣ್ಣ ಕ್ಯಾತನಹಳ್ಳಿ">
 		<entry>
 			<title>ಗುರುಮೂರ್ತಿ ಹೇಳಿದ ಕತೆ</title>
 			<feature>ಕಥೆ</feature>
@@ -1986,8 +1986,8 @@
 			<issue>01</issue>
 			<page>0047</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಯ್ಯ ಬಿ">
+	</author>
+	<author authorname="ರಾಮಯ್ಯ ಬಿ">
 		<entry>
 			<title>ಅಣ್ಣನವರ ವಚನ</title>
 			<feature>ಸಂ ಸಂ</feature>
@@ -1995,8 +1995,8 @@
 			<issue>02</issue>
 			<page>0101</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಯ್ಯ ಚಾಡಾಲ">
+	</author>
+	<author authorname="ರಾಮಯ್ಯ ಚಾಡಾಲ">
 		<entry>
 			<title>ಬಸವೇಶ್ವರರ ಕಾಲ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2004,8 +2004,8 @@
 			<issue>04</issue>
 			<page>0113</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮರಾವ್ ಎಂ">
+	</author>
+	<author authorname="ರಾಮರಾವ್ ಎಂ">
 		<entry>
 			<title>ಮನೋಹರ ಮಲಗಾಂಕರವರ ರಾಜಮಹಾರಾಜರು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2013,15 +2013,15 @@
 			<issue>03</issue>
 			<page>0077</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಾಹಿತಿಯಾಗಿ ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧೀಸೂಕ್ತಿಗಳು</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0085</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮಸ್ವಾಮಿಯ್ಯಂಗಾರ್ ಗೊರೂರು">
+	</author>
+	<author authorname="ರಾಮಸ್ವಾಮಿಯ್ಯಂಗಾರ್ ಗೊರೂರು">
 		<entry>
 			<title>ಸತ್ತವನ ಸೇಡು</title>
 			<feature>ಕಥೆ</feature>
@@ -2029,29 +2029,29 @@
 			<issue>01</issue>
 			<page>0020</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಾಬರ್ಮತಿಯಲ್ಲಿ ಅಕ್ರಮ ಜೀವನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0037</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹರಿಹರನಲ್ಲಿ ಭಕ್ತಿಯ ಪಾರಮ್ಯ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0005</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾನು ಕಂಡಂತೆ ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧೀಸೂಕ್ತಿಗಳು</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0045</page>
 		</entry>
-    </author>
-    <author authorname="ರಮೇಶ ಕೋ. ವ್ಯಾ">
+	</author>
+	<author authorname="ರಮೇಶ ಕೋ. ವ್ಯಾ">
 		<entry>
 			<title>ಮಹಾಪ್ರಧಾನ ಕೇಶಿರಾಜದಂಡನಾಯಕ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2059,22 +2059,22 @@
 			<issue>01</issue>
 			<page>0003</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ರಾಷ್ಟ್ರಕೂಟ ಒಂದನೆಯ ಅಮೋಘರ್ವನ ರಾಮದು‌‌ರ್ಗ ಶಾಸನ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0089</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹಲ್ಮಡಿ ಶಾಸನದ ಸೞ್ಟಙ್ಗದರ್ ಮತ್ತು ಬಾಳ್ಗಚ್ಚು</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0023</page>
 		</entry>
-    </author>
-    <author authorname="ರಮೇಶ ಮೇಗರವಳ್ಳಿ">
+	</author>
+	<author authorname="ರಮೇಶ ಮೇಗರವಳ್ಳಿ">
 		<entry>
 			<title>ಗೂಢಾರ್ಥ</title>
 			<feature>ಕವನ</feature>
@@ -2082,15 +2082,15 @@
 			<issue>03</issue>
 			<page>0004</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಶಾಪ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0054</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಮೇಶ್ವರ ಎ. ಕೆ">
+	</author>
+	<author authorname="ರಾಮೇಶ್ವರ ಎ. ಕೆ">
 		<entry>
 			<title>ಬೇಲೂರಿನ ಶಿಲಾ ಬಾಲಕಿಯರು</title>
 			<feature>ಕವನ</feature>
@@ -2098,8 +2098,8 @@
 			<issue>01</issue>
 			<page>0109</page>
 		</entry>
-    </author>
-    <author authorname="ರಾವಬಹದೂರ">
+	</author>
+	<author authorname="ರಾವಬಹದೂರ">
 		<entry>
 			<title>ದೇವತ್ವಕ್ಕೇರಿದ ಮಾನವ ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧೀಸೂಕ್ತಿಗಳು</feature>
@@ -2107,17 +2107,17 @@
 			<issue>04</issue>
 			<page>0135</page>
 		</entry>
-    </author>
-    <author authorname="ರಾಶಂಪೂ">
-        <entry>
+	</author>
+	<author authorname="ರಾಶಂಪೂ">
+		<entry>
 			<title>ರನ್ನನ ದುಯೋಧನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0051</page>
-        </entry>
-    </author>
-    <author authorname="ಲಕ್ಷ್ಮೀನರಸಿಂಹಶಾಸ್ತ್ರಿ">
+		</entry>
+	</author>
+	<author authorname="ಲಕ್ಷ್ಮೀನರಸಿಂಹಶಾಸ್ತ್ರಿ">
 		<entry>
 			<title>ಪಂಪಭಾರತದ ಯುದ್ಧಪರ್ವಗಳಲ್ಲಿ ಸಮಕಾಲೀನ ಸಂಗತಿಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2125,8 +2125,8 @@
 			<issue>01</issue>
 			<page>0059</page>
 		</entry>
-    </author>
-    <author authorname="ಲಕ್ಷ್ಮೀನಾರಾಣ ಆರೋರ  ಎನ್">
+	</author>
+	<author authorname="ಲಕ್ಷ್ಮೀನಾರಾಣ ಆರೋರ  ಎನ್">
 		<entry>
 			<title>ರಾಷ್ಟ್ರಪುರುಷ ರಾಜಾಜಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2134,8 +2134,8 @@
 			<issue>04</issue>
 			<page>0097</page>
 		</entry>
-    </author>
-    <author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ರಾವ್ ಎನ್">
+	</author>
+	<author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ರಾವ್ ಎನ್">
 		<entry>
 			<title>ಹೊಸದಾಗಿ ಬೆಳಕಿಗೆ ಬಂದ ಬಿಜ್ಜಳನ ಒಬ್ಬ ತಮ್ಮ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2143,8 +2143,8 @@
 			<issue>02</issue>
 			<page>0019</page>
 		</entry>
-    </author>
-    <author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ರಾ">
+	</author>
+	<author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ರಾ">
 		<entry>
 			<title>ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಕಡಲ ದರ್ಶನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2152,15 +2152,15 @@
 			<issue>04</issue>
 			<page>0059</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಕಡಲದರ್ಶನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0047</page>
 		</entry>
-    </author>
-    <author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ವಿ. ಎನ್">
+	</author>
+	<author authorname="ಲಕ್ಷ್ಮೀನಾರಾಯಣ ವಿ. ಎನ್">
 		<entry>
 			<title>ಅಸಗ</title>
 			<feature>ಕವನ</feature>
@@ -2168,22 +2168,22 @@
 			<issue>03</issue>
 			<page>0042</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗೋಪಿಯರ ಜಲಕ್ರೀಡೆ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>54</volume>
 			<issue>02</issue>
 			<page>0067</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾನು</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0128</page>
 		</entry>
-    </author>
-    <author authorname="ಲಿಂಗಣ್ಣ ಜಿ. ಬಿ">
+	</author>
+	<author authorname="ಲಿಂಗಣ್ಣ ಜಿ. ಬಿ">
 		<entry>
 			<title>ಪಂಜೆಯವರ ನೆನಪು</title>
 			<feature>ಜೀಸ್ಮೃತಿ</feature>
@@ -2191,8 +2191,8 @@
 			<issue>03</issue>
 			<page>0067</page>
 		</entry>
-    </author>
-    <author authorname="ಲಿಂಗಣ್ಣಯ್ಯ ಒ. ಎನ್">
+	</author>
+	<author authorname="ಲಿಂಗಣ್ಣಯ್ಯ ಒ. ಎನ್">
 		<entry>
 			<title>ಮಯಾಭಾರತದ ಉದಯರಾಗವನ್ನು ಬರೆದ ಕವಿಯಾರು?</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2200,15 +2200,15 @@
 			<issue>03</issue>
 			<page>0136</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಂಚಿಯ ಹೊನ್ನಮ್ಮನ ಮತ ಯಾವುದು?</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0095</page>
 		</entry>
-    </author>
-    <author authorname="ಲೀಲಾವತಿ ಎಂ. ಎಸ್">
+	</author>
+	<author authorname="ಲೀಲಾವತಿ ಎಂ. ಎಸ್">
 		<entry>
 			<title>ಹರಿದಾಸ ಕೀರ್ತನೆಗಳಲ್ಲಿ ಮಹಾಭಾರತ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2216,8 +2216,8 @@
 			<issue>02</issue>
 			<page>0063</page>
 		</entry>
-    </author>
-    <author authorname="ಲೋಕೂರ ಎಚ್. ಜಿ">
+	</author>
+	<author authorname="ಲೋಕೂರ ಎಚ್. ಜಿ">
 		<entry>
 			<title>ಸುಭಾಷಿತಗಳು</title>
 			<feature>ಕವನ</feature>
@@ -2225,8 +2225,8 @@
 			<issue>02</issue>
 			<page>0075</page>
 		</entry>
-    </author>
-    <author authorname="ವರದರಾಜರಾವ್ ಜಿ">
+	</author>
+	<author authorname="ವರದರಾಜರಾವ್ ಜಿ">
 		<entry>
 			<title>ಅಚಲಾನಂದ ದಾಸರು</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2234,57 +2234,57 @@
 			<issue>03</issue>
 			<page>0107</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಅರವಿಂದರಿಗೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0060</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಆಚಾರ‍್ಯರ ಆತ್ಮೀಯತೆ</title>
 			<feature>ಜೀಸ್ಮೃತಿ</feature>
 			<volume>053</volume>
 			<issue>02</issue>
 			<page>0115</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕೃತಿಶಿಕ್ಷಕ</title>
 			<feature>ಕವನ</feature>
 			<volume>053</volume>
 			<issue>01</issue>
 			<page>0093</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಡೀಪಾರು</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>01</issue>
 			<page>0149</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಾಂಧೀಜಿಯ ಒಕ್ಕಲು</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0002</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಶ್ರೀಪಾದರಾಜತೀರ್ಥರ ಶ್ರಿಜಿತಾಮಿತ್ರ ಸ್ತುತಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>032</volume>
 			<issue>01</issue>
 			<page>0109</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸಾಧಾರಣ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0089</page>
 		</entry>
-    </author>
-    <author authorname="ವಸಂತಕುಮಾರ್ ಎಂ. ಸಿ">
+	</author>
+	<author authorname="ವಸಂತಕುಮಾರ್ ಎಂ. ಸಿ">
 		<entry>
 			<title>ಕರ್ಣ</title>
 			<feature>ಕವನ</feature>
@@ -2292,22 +2292,22 @@
 			<issue>02</issue>
 			<page>0036</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಗಾಂಧೀ ಮಹಿಮೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>04</issue>
 			<page>0020</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಬಯಕೆ ಬಯಲು</title>
 			<feature>ಕವನ</feature>
 			<volume>053</volume>
 			<issue>03</issue>
 			<page>0086</page>
 		</entry>
-    </author>
-    <author authorname="ವಸಂತಕುಮಾರ್ ಮಳಲಿ">
+	</author>
+	<author authorname="ವಸಂತಕುಮಾರ್ ಮಳಲಿ">
 		<entry>
 			<title>ಮೂರ್ತಿರಾಯರ ಪ್ರಬಂಧಸಾಹಿತ್ಯ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2315,8 +2315,8 @@
 			<issue>04</issue>
 			<page>0095</page>
 		</entry>
-    </author>
-    <author authorname="ವಾಮನರಾವ್ ಹೊದಿಕೆ">
+	</author>
+	<author authorname="ವಾಮನರಾವ್ ಹೊದಿಕೆ">
 		<entry>
 			<title>ಸತ್ಯಾಗ್ರಹ ಮತ್ತು ಸರ್ವೋದಯ</title>
 			<feature></feature>
@@ -2324,8 +2324,8 @@
 			<issue>04</issue>
 			<page>0159</page>
 		</entry>
-    </author>
-    <author authorname="ವಿಜಯ ಡಿ">
+	</author>
+	<author authorname="ವಿಜಯ ಡಿ">
 		<entry>
 			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮೃತ್ಯು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2333,22 +2333,22 @@
 			<issue>02</issue>
 			<page>0021</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮೃತ್ಯು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0061</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಮೃತ್ಯು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>055</volume>
 			<issue>04</issue>
 			<page>0111</page>
 		</entry>
-    </author>
-    <author authorname="ವಿಜಯಲಕ್ಷ್ಮಿ ರಾಮನಾಯಕ್">
+	</author>
+	<author authorname="ವಿಜಯಲಕ್ಷ್ಮಿ ರಾಮನಾಯಕ್">
 		<entry>
 			<title>ಬೇಗ</title>
 			<feature>ಕವನ</feature>
@@ -2356,8 +2356,8 @@
 			<issue>04</issue>
 			<page>0111</page>
 		</entry>
-    </author>
-    <author authorname="ವಿರೂಪಾಕ್ಷಗೌಡ ಕೆ">
+	</author>
+	<author authorname="ವಿರೂಪಾಕ್ಷಗೌಡ ಕೆ">
 		<entry>
 			<title>ಜಾನಪದ ಸಂಗ್ರಹ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2365,8 +2365,8 @@
 			<issue>04</issue>
 			<page>0067</page>
 		</entry>
-    </author>
-    <author authorname="ವಿ. ವಿ.">
+	</author>
+	<author authorname="ವಿ. ವಿ.">
 		<entry>
 			<title>ತಂಗಿಗೆ ನಾಲ್ಕು ಪತ್ರಗಳು</title>
 			<feature>ಕಥೆ</feature>
@@ -2374,8 +2374,8 @@
 			<issue>03</issue>
 			<page>0039</page>
 		</entry>
-    </author>
-    <author authorname="ವಿವೇಕ ರೈ">
+	</author>
+	<author authorname="ವಿವೇಕ ರೈ">
 		<entry>
 			<title>ಕನ್ನಡದಲ್ಲಿ ಪ್ರವಾಸ ಸಾಹಿತ್ಯ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2383,15 +2383,15 @@
 			<issue>09</issue>
 			<page>0095</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ತುಳುಭಾಷೆ-ಒಂದು ಅಧ್ಯಯನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>02</issue>
 			<page>0095</page>
 		</entry>
-    </author>
-    <author authorname="ವಿಹಂಗಮ">
+	</author>
+	<author authorname="ವಿಹಂಗಮ">
 		<entry>
 			<title>ಅಪರಾಧ</title>
 			<feature>ಕಥೆ</feature>
@@ -2399,29 +2399,29 @@
 			<issue>03</issue>
 			<page>0029</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕನ್ನಡದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯಭಾವನೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>04</issue>
 			<page>0105</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಮ್ಮ ಮನೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0109</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನವ್ಯಕಾವ್ಯ-ಒಂದು ವಿವರಣೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>04</issue>
 			<page>0049</page>
 		</entry>
-    </author>
-    <author authorname="ವೀರ್ಯ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಆಳ್ವ">
+	</author>
+	<author authorname="ವೀರ್ಯ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ಆಳ್ವ">
 		<entry>
 			<title>ಹೂ</title>
 			<feature>ಕಥೆ</feature>
@@ -2429,8 +2429,8 @@
 			<issue>02</issue>
 			<page>0091</page>
 		</entry>
-    </author>
-    <author authorname="ವೆಂಕಟಕೃಷ್ಣರಾವ್ ಉಡಪಿ">
+	</author>
+	<author authorname="ವೆಂಕಟಕೃಷ್ಣರಾವ್ ಉಡಪಿ">
 		<entry>
 			<title>ಭಾಸ ನಾಟಕಗಳ ಸಮಸ್ಯೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2438,8 +2438,8 @@
 			<issue>02</issue>
 			<page>0049</page>
 		</entry>
-    </author>
-    <author authorname="ವೆಂಕಟರಾಮಪ್ಪ ಕೆ">
+	</author>
+	<author authorname="ವೆಂಕಟರಾಮಪ್ಪ ಕೆ">
 		<entry>
 			<title>ಸುಖವೆಂದರೇನು?</title>
 			<feature>ಕಥೆ</feature>
@@ -2447,8 +2447,8 @@
 			<issue>06</issue>
 			<page>0063</page>
 		</entry>
-    </author>
-    <author authorname="ವೆಂಕಟರಾಯಚಾರ್ಯ ಕೆ">
+	</author>
+	<author authorname="ವೆಂಕಟರಾಯಚಾರ್ಯ ಕೆ">
 		<entry>
 			<title>ಸತಿಯಪುತ್ರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2456,8 +2456,8 @@
 			<issue>01</issue>
 			<page>0085</page>
 		</entry>
-    </author>
-    <author authorname="ವೆಂಕಟೇಶಯ್ಯ ಎಂ. ಜಿ">
+	</author>
+	<author authorname="ವೆಂಕಟೇಶಯ್ಯ ಎಂ. ಜಿ">
 		<entry>
 			<title>ಅಲಂಕಾರಶಾಸ್ತ್ರ ಪರಿಚಯ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2465,15 +2465,15 @@
 			<issue>04</issue>
 			<page>0031</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಡೋರಿಯನ್ ಗ್ರೆಯ ಪ್ರತಿರೂಪ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0031</page>
 		</entry>
-    </author>
-    <author authorname="ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರಿ ಟಿ. ವಿ">
+	</author>
+	<author authorname="ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರಿ ಟಿ. ವಿ">
 		<entry>
 			<title>ರುದ್ರನಾಟಕೋಪನ್ಯಾಸಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2481,43 +2481,43 @@
 			<issue>03</issue>
 			<page>0043</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ರುದ್ರನಾಟಕೋಪನ್ಯಾಸಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>053</volume>
 			<issue>04</issue>
 			<page>0003</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವೊಡ್ಡಾರಾಧನೆಯಲ್ಲಿ ಒಂದು ಪಾದ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>01</issue>
 			<page>0015</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವೊಡ್ಡಾರಾಧನೆಯಲ್ಲಿ ಒಂದು ಪಾದ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0037</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವೊಡ್ಡಾರಾಧನೆಯಲ್ಲಿ ಒಂದು ಪಾದ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0113</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವೊಡ್ಡಾರಾಧನೆಯಲ್ಲಿ ಒಂದು ಪಾದ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0037</page>
 		</entry>
-    </author>
-    <author authorname="ವೇಣುಗೋಪಾಲ ಸೊರಬ">
+	</author>
+	<author authorname="ವೇಣುಗೋಪಾಲ ಸೊರಬ">
 		<entry>
 			<title>ಅಸತೋಮಾ.......?</title>
 			<feature></feature>
@@ -2525,29 +2525,29 @@
 			<issue>01</issue>
 			<page>0142</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಸದ್ಗೃಹಸ್ಥ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>01</issue>
 			<page>0110</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕಾರ್ತಿಕದ ಉತ್ಸವ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0138</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ರಾಮನ್ (ಸಿ.ವಿ.)ನೆನಪಿಗೆ</title>
 			<feature></feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0113</page>
 		</entry>
-    </author>
-    <author authorname="ವೇಣುಗೋಪಾಲರಾವ್ ಎಸ್. ‌ಆರ್">
+	</author>
+	<author authorname="ವೇಣುಗೋಪಾಲರಾವ್ ಎಸ್. ‌ಆರ್">
 		<entry>
 			<title>ನಚಿಕೇತನ ಪ್ರಜ್ಞೆ</title>
 			<feature>ಕವನ</feature>
@@ -2555,8 +2555,8 @@
 			<issue>02</issue>
 			<page>0088</page>
 		</entry>
-    </author>
-    <author authorname="ಶಂಕರನಾರಾಯಣ ಅಮ್ಮಂಬಾಲ">
+	</author>
+	<author authorname="ಶಂಕರನಾರಾಯಣ ಅಮ್ಮಂಬಾಲ">
 		<entry>
 			<title>ಜೇನುಹನಿ</title>
 			<feature>ಕವನ</feature>
@@ -2564,8 +2564,8 @@
 			<issue>02</issue>
 			<page>0074</page>
 		</entry>
-    </author> 
-    <author authorname="ಶಂಸ ಐತಾಳ">
+	</author> 
+	<author authorname="ಶಂಸ ಐತಾಳ">
 		<entry>
 			<title>ಶಂಖ</title>
 			<feature>ಕವನ</feature>
@@ -2573,8 +2573,8 @@
 			<issue>01</issue>
 			<page>0088</page>
 		</entry>
-    </author>
-    <author authorname="ಶಾಶ್ವತ ಮುಕ್ಕುಂದಿ ಮಠ">
+	</author>
+	<author authorname="ಶಾಶ್ವತ ಮುಕ್ಕುಂದಿ ಮಠ">
 		<entry>
 			<title>ದಾನ ಚಿಂತಾಮಣಿ ಅತ್ತಿಮಬ್ಬೆ</title>
 			<feature>ನಾಟಕ</feature>
@@ -2582,8 +2582,8 @@
 			<issue>01</issue>
 			<page>0103</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಕುಮಾರ್ ಎಸ್. ವಿ">
+	</author>
+	<author authorname="ಶಿವಕುಮಾರ್ ಎಸ್. ವಿ">
 		<entry>
 			<title>ಬಯಕೆ</title>
 			<feature>ಕವನ</feature>
@@ -2591,8 +2591,8 @@
 			<issue>04</issue>
 			<page>0046</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಣ್ಣ ಎಸ್">
+	</author>
+	<author authorname="ಶಿವಣ್ಣ ಎಸ್">
 		<entry>
 			<title>‌ಅಭವ ಕಂದದ ಕರ್ತೃತ್ವ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2600,50 +2600,50 @@
 			<issue>01</issue>
 			<page>0112</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಅಳಿಯ ಲಿಂಗರಾಜನ ವೀರೇಶತಾರಾವಳಿ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>054</volume>
 			<issue>02</issue>
 			<page>0055</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕಡಬದ ಅನಂತರಾಮದಾಸ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>053</volume>
 			<issue>01</issue>
 			<page>0141</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕೇಶಿರಾಜನ ಪ್ರಯೋಗಗಳ ಆಕರಗಳು</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>052</volume>
 			<issue>04</issue>
 			<page>0127</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ಮಹಿಮಾಷ್ಟಕಂ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>053</volume>
 			<issue>01</issue>
 			<page>0031</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ಮಾನಮಧುರೆ ದಾಸ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0096</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ಮೋಳಿಗೆಯ ಮಾರಯ್ಯ ಮತ್ತು ರಾಣಿ ಮಾಹಾದೇವಿಯರ ಬೆಡಗಿನ ಟೀಕಾ ಕರ್ತೃತ್ವ-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>051</volume>
 			<issue>02</issue>
 			<page>0157</page>
 		</entry>       
-    </author>
-    <author authorname="ಶಿವಣ್ಣ ಹೆಚ್">
+	</author>
+	<author authorname="ಶಿವಣ್ಣ ಹೆಚ್">
 		<entry>
 			<title>ಕೊಂಡಗುಳಿ ಕೇಶಿರಾಜಕೃತ ಲಿಂಗಸ್ತೋತ್ರದ ಕಂದ ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2651,8 +2651,8 @@
 			<issue>01</issue>
 			<page>0157</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಣ್ಣ ಎಸ್">
+	</author>
+	<author authorname="ಶಿವಣ್ಣ ಎಸ್">
 		<entry>
 			<title>ಶಿವಲಿಂಗನಾಂದ್ಯ ಮತ್ತು ವಸ್ತುಕ ಪುರಾಣನಾಂದ್ಯ ಕರ್ತೃತ್ವ ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -2660,8 +2660,8 @@
 			<issue>04</issue>
 			<page>0118</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಪ್ಪ ಕೆ. ಎನ್">
+	</author>
+	<author authorname="ಶಿವಪ್ಪ ಕೆ. ಎನ್">
 		<entry>
 			<title>ಉವಾಚ</title>
 			<feature>ಕವನ</feature>
@@ -2669,8 +2669,8 @@
 			<issue>03</issue>
 			<page>0102</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವತೀರ್ಥನ್ ಕೆ. ನ">
+	</author>
+	<author authorname="ಶಿವತೀರ್ಥನ್ ಕೆ. ನ">
 		<entry>
 			<title>ಕನ್ನಡ ಕಾವ್ಯದಲ್ಲಿ ಗಾಂಧೀಜಿ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -2678,15 +2678,15 @@
 			<issue>04</issue>
 			<page>0185</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ವಿವೇಕಾನಂದ</title>
 			<feature>ಕವನ</feature>
 			<volume>052</volume>
 			<issue>02</issue>
 			<page>0090</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವನಂಜಯ್ಯ ಮು">
+	</author>
+	<author authorname="ಶಿವನಂಜಯ್ಯ ಮು">
 		<entry>
 			<title>ಮಾಸ್ತಿಯವರ ಚಿಕವೀರರಾಜೇಂದ್ರ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2694,8 +2694,8 @@
 			<issue>02</issue>
 			<page>0085</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಮೂರ್ತಿಶಾಸ್ತ್ರಿ ಬಿ">
+	</author>
+	<author authorname="ಶಿವಮೂರ್ತಿಶಾಸ್ತ್ರಿ ಬಿ">
 		<entry>
 			<title>ಗಾಮಧೀಜಿ ಸಂದರ್ಶನ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -2703,8 +2703,8 @@
 			<issue>04</issue>
 			<page>0037</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವರಾಂ ಕೆ. ಎಸ್ ಮತ್ತು ಹರಿಶಂಕರ್ ಎಚ್. ಎಸ್">
+	</author>
+	<author authorname="ಶಿವರಾಂ ಕೆ. ಎಸ್ ಮತ್ತು ಹರಿಶಂಕರ್ ಎಚ್. ಎಸ್">
 		<entry>
 			<title>ಬಿಳೀ ಕೊಂಬು</title>
 			<feature>ಕಥೆ</feature>
@@ -2712,8 +2712,8 @@
 			<issue>04</issue>
 			<page>0067</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವರಾಮ ಐತಾಳ">
+	</author>
+	<author authorname="ಶಿವರಾಮ ಐತಾಳ">
 		<entry>
 			<title>ದೇವರ ದಾಸಿಮಯ್ಯನ ವಚನಗಳು</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2721,8 +2721,8 @@
 			<issue>01</issue>
 			<page>0035</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್">
+	</author>
+	<author authorname="ಶಿವರುದ್ರಪ್ಪ ಜಿ. ಎಸ್">
 		<entry>
 			<title>ಗಾಂಧೀ ಶತಮಾನೋತ್ಸವ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -2730,8 +2730,8 @@
 			<issue>04</issue>
 			<page>0011</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವರುದ್ರಪ್ಪ ಎ. ಎಲ್">
+	</author>
+	<author authorname="ಶಿವರುದ್ರಪ್ಪ ಎ. ಎಲ್">
 		<entry>
 			<title>ಗಾಂಧೀಜಿಯ ಜೀವನದರ್ಶನ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -2739,8 +2739,8 @@
 			<issue>04</issue>
 			<page>0147</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಶರಣ ಜಾವಳಿ">
+	</author>
+	<author authorname="ಶಿವಶರಣ ಜಾವಳಿ">
 		<entry>
 			<title>ಹೀಗೆ ಮಾಡಿದ್ದೇನೆ</title>
 			<feature>ಕವನ</feature>
@@ -2748,8 +2748,8 @@
 			<issue>02</issue>
 			<page>0134</page>
 		</entry>
-    </author>
-    <author authorname="ಶಿವಾನಂದ ವಿ">
+	</author>
+	<author authorname="ಶಿವಾನಂದ ವಿ">
 		<entry>
 			<title>ಕನ್ನಡ ಸಾಹಿತ್ಯಕ್ಕೆ ಪುಲಿಗೆರೆಯ ಕಾಣಿಕೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2757,15 +2757,15 @@
 			<issue>03</issue>
 			<page>0041</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಪುಲಿಗೆರೆಯ ಮಹಾಲಿಂಗ ದೇವರ ಅಭವ ಕಂದ</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0045</page>
 		</entry>
-    </author>
-    <author authorname="ಶ್ರೀಧರ ಉಪ್ಪಾರ್ ಮಾ. ನಾ">
+	</author>
+	<author authorname="ಶ್ರೀಧರ ಉಪ್ಪಾರ್ ಮಾ. ನಾ">
 		<entry>
 			<title>ಯಾರ ಬಯಕೆಯ ಗೊನೆಯೋ</title>
 			<feature>ಕವನ</feature>
@@ -2773,8 +2773,8 @@
 			<issue>01</issue>
 			<page>0031</page>
 		</entry>
-    </author>
-    <author authorname="ಶ್ರೀನಂತ">
+	</author>
+	<author authorname="ಶ್ರೀನಂತ">
 		<entry>
 			<title>ಕಂಡಾರ-ಕಡಾರ ಎಂದರೇನು?</title>
 			<feature>ಕಮ್ಮಟ ಕಿಡಿಗಳು</feature>
@@ -2782,8 +2782,8 @@
 			<issue>01</issue>
 			<page>0151</page>
 		</entry>
-    </author>
-    <author authorname="ಶ್ರೀನಾಥರಾಯಸಂ">
+	</author>
+	<author authorname="ಶ್ರೀನಾಥರಾಯಸಂ">
 		<entry>
 			<title>ನೆನಪಿರಲಿ</title>
 			<feature>ಕವನ</feature>
@@ -2791,8 +2791,8 @@
 			<issue>02</issue>
 			<page>0135</page>
 		</entry>
-    </author>
-    <author authorname="ಶ್ರೀನಿವಾಸನ್ ಕೆ">
+	</author>
+	<author authorname="ಶ್ರೀನಿವಾಸನ್ ಕೆ">
 		<entry>
 			<title>ಕಾಳಿದಾಸ ಮತ್ತು ಅಭಿನವ ಶಾಕುಂತಲ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2800,8 +2800,8 @@
 			<issue>04</issue>
 			<page>039</page>
 		</entry>
-    </author>
-    <author authorname="ಶ್ರೀನಿವಾಸ ಹಾವನೂರ">
+	</author>
+	<author authorname="ಶ್ರೀನಿವಾಸ ಹಾವನೂರ">
 		<entry>
 			<title>ಕನ್ನಡದ ಪ್ರಥಮ ಸಾಮಾಜಿಕ ಕಾದಂಬರಿಯ ಹಿನ್ನೆಲೆ</title>
 			<feature></feature>
@@ -2809,15 +2809,15 @@
 			<issue>03</issue>
 			<page>0029</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಹತ್ತೊಂಬತ್ತನೆಯ ಶತಮಾನದಲ್ಲಿ ಪಾಶ್ಚಾತ್ಯ ವಿದ್ವಾಂಸರ ಕನ್ನಡಸೇವೆ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0121</page>
 		</entry>
-    </author>
-    <author authorname="ಸಂಕಲನ (ಸಂ. ಸಂ)">
+	</author>
+	<author authorname="ಸಂಕಲನ (ಸಂ. ಸಂ)">
 		<entry>
 			<title>ನಲ್ನುಡಿ</title>
 			<feature>ಸಾಹಿತ್ಯ ವಿಚಾರ</feature>
@@ -2825,8 +2825,8 @@
 			<issue>03</issue>
 			<page>0066</page>
 		</entry>
-    </author>
-    <author authorname="ಸಂಕಲಿತ">
+	</author>
+	<author authorname="ಸಂಕಲಿತ">
 		<entry>
 			<title>ಶರಣ ಬಸವಣ್ಣ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2834,8 +2834,8 @@
 			<issue>02</issue>
 			<page>0074</page>
 		</entry>
-    </author>
-    <author authorname="ಸಂಪಾದಿತ">
+	</author>
+	<author authorname="ಸಂಪಾದಿತ">
 		<entry>
 			<title>ಯಶೋದೆ ವಿರಚಿತ ಲವಕುಶರ ಕಥೆ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2843,8 +2843,8 @@
 			<issue>04</issue>
 			<page>0019</page>
 		</entry>
-    </author>
-    <author authorname="ಸಂಗಮನಾಥ ಜಿ. ಹಂಡಿ">
+	</author>
+	<author authorname="ಸಂಗಮನಾಥ ಜಿ. ಹಂಡಿ">
 		<entry>
 			<title>ಆಚಣ್ಣ ಕವಿ ಚಿತ್ರಿಸಿದ ವರ್ಧಮಾನ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2852,8 +2852,8 @@
 			<issue>01</issue>
 			<page>0081</page>
 		</entry>
-    </author>
-    <author authorname="ಸಣ್ಣಯ್ಯ ಬಿ. ಎಸ್">
+	</author>
+	<author authorname="ಸಣ್ಣಯ್ಯ ಬಿ. ಎಸ್">
 		<entry>
 			<title>ಓಲೆಯ ಗ್ರಂಥಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2861,22 +2861,22 @@
 			<issue>01</issue>
 			<page>0093</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾಗವರ್ಮ ಮತ್ತು ವರ್ಧಮಾನ ಪುರಾಣ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0093</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಲೋಗೇಶ್ವರ-ಒಂದು ವಿಚಾರ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>052</volume>
 			<issue>01</issue>
 			<page>0093</page>
 		</entry>
-    </author>
-    <author authorname="ಸತೀಶ್ ಎಂ. ಆರ್ ಮತ್ತು ವೆಂಕಟರಾಯಪ್ಪ">
+	</author>
+	<author authorname="ಸತೀಶ್ ಎಂ. ಆರ್ ಮತ್ತು ವೆಂಕಟರಾಯಪ್ಪ">
 		<entry>
 			<title>ಭಾರತದ ಗ್ರಾಮಗಳಲ್ಲಿ ಬೆಳಕಿಗೆ ಬರುತ್ತಿರುವ ಮುಂದಾಳುಗಳು</title>
 			<feature>ಕವನ</feature>
@@ -2884,8 +2884,8 @@
 			<issue>03</issue>
 			<page>0113</page>
 		</entry>
-    </author>
-    <author authorname="ಸದಾಶಿವ ಎಣ್ಣೆಹೊಳೆ">
+	</author>
+	<author authorname="ಸದಾಶಿವ ಎಣ್ಣೆಹೊಳೆ">
 		<entry>
 			<title>ಪೂಜಾರಿ</title>
 			<feature>ಕವನ</feature>
@@ -2893,8 +2893,8 @@
 			<issue>01</issue>
 			<page>0034</page>
 		</entry>
-    </author>
-    <author authorname="ಸನದಿ ಬಿ. ಎ">
+	</author>
+	<author authorname="ಸನದಿ ಬಿ. ಎ">
 		<entry>
 			<title>ಅಳು</title>
 			<feature>ಕವನ</feature>
@@ -2902,22 +2902,22 @@
 			<issue>03</issue>
 			<page>0044</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ನಾಳೆ ಬೆಳಗಿನ ವರೆಗೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0096</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ರುಚಿ</title>
 			<feature>ಕವನ</feature>
 			<volume>051</volume>
 			<issue>03</issue>
 			<page>0124</page>
 		</entry>
-    </author>
-    <author authorname="ಸಂಪದ್ಗಿರಿರಾವ್ ಕೆ">
+	</author>
+	<author authorname="ಸಂಪದ್ಗಿರಿರಾವ್ ಕೆ">
 		<entry>
 			<title>ಗಾಂಧೀಜಿಯವರೂ ವರ್ಣಾಶ್ರಮ ಧರ್ಮವೂ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -2925,8 +2925,8 @@
 			<issue>04</issue>
 			<page>0161</page>
 		</entry>
-    </author>
-    <author authorname="ಸರೋಜ ಬಿ. ಎಸ್">
+	</author>
+	<author authorname="ಸರೋಜ ಬಿ. ಎಸ್">
 		<entry>
 			<title>ಬಾಗಿಲು ತೆಗೆಯುವ ಹಾಡು</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -2934,8 +2934,8 @@
 			<issue>03</issue>
 			<page>0070</page>
 		</entry>
-    </author>
-    <author authorname="ಸ್ವಾಮಿ ಬಿ. ಜಿ. ಎಲ್">
+	</author>
+	<author authorname="ಸ್ವಾಮಿ ಬಿ. ಜಿ. ಎಲ್">
 		<entry>
 			<title>‌ಆದಿಪಂಪನ ಕೃತಿಯಲ್ಲಿ ದೋಹದ ಪ್ರಕರಣ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -2943,22 +2943,22 @@
 			<issue>01</issue>
 			<page>0085</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ಪಂಪನ ಕಾವ್ಯಗಳಲ್ಲಿ ಹೂ ಗಿಡ ಮರ ಬಳ್ಳಿಗಳು</title>
 			<feature>ಸಂ. ಸಂ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0007</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>‌ಹರಿಹರನ ಪುಷ್ಪ ರಗಳೆ-ಸಸ್ಯಶಾಸ್ತ್ರೀಯ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಟಿಪ್ಪಣಿ,</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 			<volume>054</volume>
 			<issue>03</issue>
 			<page>0003</page>
 		</entry>
-    </author>
-    <author authorname="ಸಿ. ಕೆ. ವಿ">
+	</author>
+	<author authorname="ಸಿ. ಕೆ. ವಿ">
 		<entry>
 			<title>ಬಾಳ್ನಡವೆ</title>
 			<feature>ಕಂ</feature>
@@ -2966,8 +2966,8 @@
 			<issue>01</issue>
 			<page>0134</page>
 		</entry>
-    </author>
-    <author authorname="ಸಿದ್ಧಯ್ಯ ಪುರಾಣಿಕ">
+	</author>
+	<author authorname="ಸಿದ್ಧಯ್ಯ ಪುರಾಣಿಕ">
 		<entry>
 			<title>ಮರುಳುಸಿದ್ಧನ ಕಂತೆ</title>
 			<feature>ಕವನ</feature>
@@ -2975,36 +2975,36 @@
 			<issue>04</issue>
 			<page>0038</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮರುಳುಸಿದ್ಧನ ಕಂತೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>054</volume>
 			<issue>04</issue>
 			<page>0046</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮರುಳುಸಿದ್ಧನ ಕಂತೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>02</issue>
 			<page>0004</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮರುಳುಸಿದ್ಧನ ಕಂತೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0056</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಮರುಳುಸಿದ್ಧನ ಕಂತೆ</title>
 			<feature>ಕವನ</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0072</page>
 		</entry>
-    </author>
-    <author authorname="ಸೀತಾರಾಮ ಜಾಗೀರ್‌ದಾರ್">
+	</author>
+	<author authorname="ಸೀತಾರಾಮ ಜಾಗೀರ್‌ದಾರ್">
 		<entry>
 			<title>ಕನ್ನಡ ರಗಳೆ ಛಂದಸ್ಸುಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -3012,8 +3012,8 @@
 			<issue>01</issue>
 			<page>0014</page>
 		</entry>
-    </author>
-    <author authorname="ಸೀತಾರಾಮಯ್ಯ ಕೆ. ಎಂ">
+	</author>
+	<author authorname="ಸೀತಾರಾಮಯ್ಯ ಕೆ. ಎಂ">
 		<entry>
 			<title>ಸೀರೆ-ಸೆರಗು</title>
 			<feature>ಕಥೆ</feature>
@@ -3021,8 +3021,8 @@
 			<issue>02</issue>
 			<page>0055</page>
 		</entry>
-    </author>
-    <author authorname="ಸೀತಾರಾಮ ಕೆದಿಲಾಯ ಕ. ಪು">
+	</author>
+	<author authorname="ಸೀತಾರಾಮ ಕೆದಿಲಾಯ ಕ. ಪು">
 		<entry>
 			<title>ಮುದ್ದಣನ ಯಕ್ಷಗಾನ ಕೃತಿಗಳು</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -3030,8 +3030,8 @@
 			<issue>01</issue>
 			<page>0049</page>
 		</entry>
-    </author>
-    <author authorname="ಸೀತಾರಾಮಯ್ಯ ಎಂ. ವಿ (ಎಂ.ವಿ.ಸೀ)">
+	</author>
+	<author authorname="ಸೀತಾರಾಮಯ್ಯ ಎಂ. ವಿ (ಎಂ.ವಿ.ಸೀ)">
 		<entry>
 			<title>ಉದ್ದಂಡ ಷಟ್ಪದಿಯ ಸಮಸ್ಯೆ</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -3039,29 +3039,29 @@
 			<issue>01</issue>
 			<page>0003</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕವಿರಾಜಮಾರ್ಗದ ಮೂರು ಶಬ್ದಗಳ ವಿಚಾರ ಕೀೞು, ತೂೞು, ಪೊಳ್, ಪುಳ್</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>053</volume>
 			<issue>03</issue>
 			<page>0130</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕವಿರಾಜಮಾರ್ಗ-ಶ್ರೀವಿಜಯ ಕರ್ತೃತ್ವದ ಬಗ್ಗೆ</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 			<volume>055</volume>
 			<issue>03</issue>
 			<page>0097</page>
 		</entry>
-        <entry>
+		<entry>
 			<title>ಕವಿರಾಜಮಾರ್ಗದ ಹೆಸರು-ಒಂದು ಟಿಪ್ಪಣಿ</title>
 			<feature></feature>
 			<volume>053</volume>
 			<issue>01</issue>
 			<page>0135</page>
 		</entry>
-    </author>
-    <author authorname="ಸೀತಾರಾಮಯ್ಯ ವಿ(ವಿ. ಸೀ)">
+	</author>
+	<author authorname="ಸೀತಾರಾಮಯ್ಯ ವಿ(ವಿ. ಸೀ)">
 		<entry>
 			<title>ಗಾಂಧೀ</title>
 			<feature>ಕವನ</feature>
@@ -3069,8 +3069,8 @@
 			<issue>04</issue>
 			<page>0005</page>
 		</entry>
-    </author>
-    <author authorname="ಸುಂದರಂ ಆರ್. ವಿ. ಎಸ್">
+	</author>
+	<author authorname="ಸುಂದರಂ ಆರ್. ವಿ. ಎಸ್">
 		<entry>
 			<title>ಪ್ರಜಾಕವಿತೆ</title>
 			<feature>ಕವನ</feature>
@@ -3078,8 +3078,8 @@
 			<issue>01</issue>
 			<page>0112</page>
 		</entry>
-    </author>
-    <author authorname="ಸುಂದರಂ ಆರ್. ವಿ. ಎಸ್ ಮತ್ತು ನಾರಾಯಣಸ್ವಾಮಿ">
+	</author>
+	<author authorname="ಸುಂದರಂ ಆರ್. ವಿ. ಎಸ್ ಮತ್ತು ನಾರಾಯಣಸ್ವಾಮಿ">
 		<entry>
 			<title>ಕಾಳಿದಾಸನ ಶಾಕುಂತಲ ನಾಟಕದ ನಾಂದಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -3087,8 +3087,8 @@
 			<issue>04</issue>
 			<page>0037</page>
 		</entry>
-    </author>
-    <author authorname="ಸುಬ್ಬರಾಮಪ್ಪ ಕೆ">
+	</author>
+	<author authorname="ಸುಬ್ಬರಾಮಪ್ಪ ಕೆ">
 		<entry>
 			<title>ವಿಶ್ವನಾಥ ಸತ್ಯನಾರಾಯಣ ಡಾ.</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -3096,8 +3096,8 @@
 			<issue>04</issue>
 			<page>0113</page>
 		</entry>
-    </author>
-    <author authorname="ಸುಬ್ರಹ್ಮಣ್ಯಂ ಟಿ. ವಿ ಮತ್ತು ಲೀಲಾವತಿ ಸುಬ್ರಹ್ಮಣ್ಯಂ">
+	</author>
+	<author authorname="ಸುಬ್ರಹ್ಮಣ್ಯಂ ಟಿ. ವಿ ಮತ್ತು ಲೀಲಾವತಿ ಸುಬ್ರಹ್ಮಣ್ಯಂ">
 		<entry>
 			<title>ಕನ್ನಡದಲ್ಲಿ ಗಾಂಧೀ ಸಾಹಿತ್ಯ ಗ್ರಂಥ ಲೇಕನ ಸೂಚಿ</title>
 			<feature>ಗಾಂಧಿವಿಚಾರ</feature>
@@ -3105,8 +3105,8 @@
 			<issue>04</issue>
 			<page>0197</page>
 		</entry>
-    </author>
-    <author authorname="ಸೋಮಶೇಖರ ಬಿ">
+	</author>
+	<author authorname="ಸೋಮಶೇಖರ ಬಿ">
 		<entry>
 			<title>ಕನ್ನಡಮ್ಮನ ಗುಡಿ</title>
 			<feature>ಕವನ</feature>
@@ -3114,8 +3114,8 @@
 			<issue>02</issue>
 			<page>0002</page>
 		</entry>
-    </author>
-    <author authorname="ಹನುಮಂತರಾವ್ ಜಿ">
+	</author>
+	<author authorname="ಹನುಮಂತರಾವ್ ಜಿ">
 		<entry>
 			<title>ಗುರುನಾನಕ್</title>
 			<feature>ಜೀಸ್ಮೃತಿ</feature>
@@ -3123,8 +3123,8 @@
 			<issue>03</issue>
 			<page>0125</page>
 		</entry>
-    </author>
-    <author authorname="ಹನುಮಂತರಾವ್ ಎಂ">
+	</author>
+	<author authorname="ಹನುಮಂತರಾವ್ ಎಂ">
 		<entry>
 			<title>’ಸಱ್ಬಙ್ಗ’ ಪದದ ಅರ್ಥವೇನು?</title>
 			<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
@@ -3132,8 +3132,8 @@
 			<issue>03</issue>
 			<page>0139</page>
 		</entry>
-    </author>
-    <author authorname="ಹನ್ನೆರಡುಮಠ ಜಿ. ಎಚ್">
+	</author>
+	<author authorname="ಹನ್ನೆರಡುಮಠ ಜಿ. ಎಚ್">
 		<entry>
 			<title>ಹಂಬಲವು ಹರಣ್ಣಾಗಿ ಚಿವಾಯಿತು</title>
 			<feature>ಕವನ</feature>
@@ -3141,8 +3141,8 @@
 			<issue>02</issue>
 			<page>0094</page>
 		</entry>
-    </author>
-    <author authorname="ಹರಿಶಂಕರ್ ಹೆಚ್. ಎಸ್">
+	</author>
+	<author authorname="ಹರಿಶಂಕರ್ ಹೆಚ್. ಎಸ್">
 		<entry>
 			<title>‌ಎರಡು ಮಹಾಕಾವ್ಯಗಳು (ರಾಮಾಯಣ ಭಾರತಗಳು)</title>
 			<feature>ಸಂ. ಸಂ</feature>
@@ -3150,8 +3150,8 @@
 			<issue>04</issue>
 			<page>0085</page>
 		</entry>
-    </author>
-    <author authorname="ಹರಿಶೆಣೈ ಆರ್">
+	</author>
+	<author authorname="ಹರಿಶೆಣೈ ಆರ್">
 		<entry>
 			<title>ಸಹೋದ್ಯೋಗಿ ಮಿತ್ರನ ದೃಷ್ಟಿಯಲ್ಲಿ ಪಂಜೆಯವರ</title>
 			<feature>ಜೀಸ್ಮೃತಿ</feature>
@@ -3159,8 +3159,8 @@
 			<issue>03</issue>
 			<page>0005</page>
 		</entry>
-    </author>
-    <author authorname="ಹೆಗ್ಗಡೆ ಆರ್. ಎ">
+	</author>
+	<author authorname="ಹೆಗ್ಗಡೆ ಆರ್. ಎ">
 		<entry>
 			<title>ಕನ್ನಡ ಪ್ರಥಮ ಸಾಮಾಜಿಕ ಕಾದಂಬರಿ-ಇಂದಿರಾಬಾಯಿ</title>
 			<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -3168,8 +3168,8 @@
 			<issue>03</issue>
 			<page>0053</page>
 		</entry>
-    </author>
-    <author authorname="ಹೇಮಗಿರಿಮಠ ಸಿ. ಪಿ">
+	</author>
+	<author authorname="ಹೇಮಗಿರಿಮಠ ಸಿ. ಪಿ">
 		<entry>
 			<title>ಶ್ರಾವಣನ ಸೋನೆಮಳೆ</title>
 			<feature>ಕವನ</feature>
@@ -3177,5 +3177,5 @@
 			<issue>03</issue>
 			<page>0110</page>
 		</entry>
-    </author>
+	</author>
 </prabuddha_karnataka>
